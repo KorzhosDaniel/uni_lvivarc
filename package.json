@@ -1,0 +1,18 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "author": "Donie",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@seald-io/nedb": "^4.0.4",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nedb": "^1.8.0"
+  }
+}
